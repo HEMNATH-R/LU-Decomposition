@@ -49,7 +49,6 @@ print(result)
 ```
 
 ## Output:
-![lu decomposition]()
 
 
 ![alt text](<Screenshot 2025-05-12 203637.png>)
