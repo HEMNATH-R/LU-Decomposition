@@ -14,7 +14,7 @@ To write a program to find the LU Decomposition of a matrix.
 3. Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the 
  package in that variable
 4. print the variable 'X'
-```
+
 
 ## Program:
 (i) To find the L and U matrix
